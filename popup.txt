@@ -2,3 +2,4 @@ It's me!!
 Git add
 Git commit
 Git rm
+Git statuts
